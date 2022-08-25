@@ -28,7 +28,7 @@
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev\nCharOverride-2",
       "remove": "",
       "ignore": ""
     },
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "skvar_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Škvár"
+            "title": "Škvár",
+            "children": []
           },
           {
             "filename": "skvar_007.md",
@@ -248,6 +248,6 @@
       "user": "books-are-next",
       "repo": "jandourek-skvar"
     },
-    "generatedAt": 1661420869439
+    "generatedAt": 1661421331580
   }
 }

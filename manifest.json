@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jandourek-skvar-cee5881",
-  "revision": "cee5881",
+  "identifier": "jandourek-skvar-08eaea7",
+  "revision": "08eaea7",
   "readingOrder": [
     "promo.html",
     "skvar_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Aug 25 2022 09:49:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661420980961
+    "date": "Thu Aug 25 2022 09:57:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661421432066
   },
   "documents": [
     {
@@ -76,9 +76,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 126,
+      "words": 127,
       "chars": 820,
-      "ideas": 14,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "skvar_006.html",
@@ -96,9 +96,9 @@
   ],
   "totals": {
     "all": {
-      "words": 73683,
+      "words": 73684,
       "chars": 451344,
-      "ideas": 1821
+      "ideas": 1822
     },
     "chapters": {
       "words": 73552,

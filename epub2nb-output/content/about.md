@@ -2,8 +2,8 @@
 title: Tiráž
 ---
 
-Jan Jandourek    
-Škvár  
+**Jan Jandourek    
+Škvár**  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
