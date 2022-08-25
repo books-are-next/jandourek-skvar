@@ -2,26 +2,33 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Škvár
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jan Jandourek
   publisher: Městská knihovna v Praze
   modified: '2022-04-07T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
-  - skvar_001.html
-  - skvar_002.html
-  - skvar_003.html
-  - skvar_004.html
   - skvar_005.html
   - skvar_006.html
-  - skvar_007.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: skvar_005.html
+        title: Citát
+        hiddenTitle: true
+      - link: skvar_006.html
+        title: Škvár
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
