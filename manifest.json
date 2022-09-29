@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jandourek-skvar-08eaea7",
-  "revision": "08eaea7",
+  "identifier": "jandourek-skvar-5ac8369",
+  "revision": "5ac8369",
   "readingOrder": [
     "promo.html",
     "skvar_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Aug 25 2022 09:57:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661421432066
+    "date": "Thu Sep 29 2022 21:25:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486746779
   },
   "documents": [
     {
