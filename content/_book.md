@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2796-3
 readingOrder:
   - promo.html
   - skvar_005.html
